@@ -14,7 +14,7 @@ local GITHUB_USERNAME = "teest003"
 local GITHUB_REPONAME = "Old-Server-Finder"
 local GITHUB_PAT = "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" -- !!! REPLACE WITH YOUR NEW, SECURE PAT !!!
 
-local SCRIPT_RELOAD_URL = "https://github.com/teest003/growagarden/edit/main/gag.lua" 
+local SCRIPT_RELOAD_URL = "https://raw.githubusercontent.com/teest003/growagarden/refs/heads/main/gag.lua" 
 
 local DEFAULT_TARGET_MAX_VERSION = 1226
 local TARGET_PLACE_ID = 16109285695 -- Grow a Garden!
